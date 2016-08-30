@@ -1,0 +1,19 @@
+title: Boiler blueprint
+pages: true
+files: true
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true
+preview: true
+deletable: true
+hide: false
+icon: suitcase
+fields:
+  title:
+    label: Title
+    type:  text
+  boilerfield:
+    type: boilerfield
