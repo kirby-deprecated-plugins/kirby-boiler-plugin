@@ -8,7 +8,7 @@ include __DIR__ . DS . 'extensions' . DS . 'page-methods.php';
 include __DIR__ . DS . 'extensions' . DS . 'pages-methods.php';
 include __DIR__ . DS . 'extensions' . DS . 'validators.php';
 
-// Inclide kirbytext
+// Include kirbytext
 include __DIR__ . DS . 'kirbytext' . DS . 'filters.php';
 include __DIR__ . DS . 'kirbytext' . DS . 'tags.php';
 
